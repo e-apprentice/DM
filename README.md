@@ -386,7 +386,7 @@ If you use this code in your research, please cite:
 
 For questions, issues, or contributions, please contact:
 - [sanskriti.khatiwada002@gmail.com]
-- [Agrimaremi2004@gmail.com]
+- [agrimaremi2004@gmail.com]
 
 ## Changelog
 
